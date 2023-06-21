@@ -4,6 +4,8 @@ This project is a clone of the Apple Vision Pro user interface, implemented usin
 
 You can access the live demo of the project on [GitHub Pages](https://lcandiago.github.io/apple-vision-pro-clone/).
 
+![apple-vision-ui](https://github.com/lcandiago/apple-vision-pro-clone/assets/6941695/6627bd64-10ed-4aae-bac5-85419ff9b457)
+
 ## Features
 
 - Replicates the user interface of Apple Vision Pro.
